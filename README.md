@@ -17,10 +17,10 @@ Hey there! 👋 Pull up a chair and grab a virtual coffee. Welcome to my little 
 
 Here are the tools and methods I use to brew my digital solutions:
 
-* **Bean Grinders (Languages): JavaScript, Java, Python
-* **Espresso Machines (Frameworks/Libraries):React, Next.js, ANgular, Vue, Flask, Tailwind CSS, SCSS
-* **Storage Jars (Databases): PostgreSQL, MongoDB, MySQL, Firebase Firestore, Supabase
-* **Cafe Essentials (Tools & Platforms): Git, Docker, Vercel, Netlify, AWS, Figma, Vite, Jest, Cypress
+* Bean Grinders (Languages): JavaScript, Java, Python
+* Espresso Machines (Frameworks/Libraries):React, Next.js, ANgular, Vue, Flask, Tailwind CSS, SCSS
+* Storage Jars (Databases): PostgreSQL, MongoDB, MySQL, Firebase Firestore, Supabase
+* Cafe Essentials (Tools & Platforms): Git, Docker, Vercel, Netlify, AWS, Figma, Vite, Jest, Cypress
 
 ---
 
@@ -41,7 +41,7 @@ Check out some of my latest blends, served hot and fresh on Vercel (Source code 
 
 For a detailed look at my professional background and skills:
 
-**View My CV/Resume: https://drive.google.com/file/d/19Mo8pjHJOARqFkZ7D20YkZpXx9Kk7KMP/view?usp=sharing
+View My CV/Resume: https://drive.google.com/file/d/19Mo8pjHJOARqFkZ7D20YkZpXx9Kk7KMP/view?usp=sharing
 
 ---
 
