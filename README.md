@@ -28,7 +28,7 @@ Here are the tools and methods I use to brew my digital solutions:
 
 Check out some of my latest blends, served hot and fresh on Vercel (Source code available upon request for specific inquiries):
 
-** KapeExplorer PH -  A Robust Full-Stack Roast
+ KapeExplorer PH -  A Robust Full-Stack Roast
 * *Tasting Notes:* Designed to help coffee enthusiasts discover and explore coffee shops across the Philippines, find your perfect cup of coffee based on your preferences, read reviews, and contribute to the community by adding your own reviews and cafe recommendations.
 * *Key Ingredients:* React + Typescipt, TailwindCSS, Zod, Supabase
 * *Taste it Live:* 🚀 https://kape-explorer-ph.vercel.app/
